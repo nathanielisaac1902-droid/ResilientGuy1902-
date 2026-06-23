@@ -19,4 +19,4 @@
 - 🎳 Bowling
 
 ### 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathanielisaac1902-droid&show_icons=true&theme=radial)
+![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=nathanielisaac1902-droid&show_icons=true&theme=radial)
